@@ -9,9 +9,9 @@ I'm Leon, a developer.
 
 You can check out all of them here:
 
-1. [@leon8326-nogeese](https://github.com/leon8326-nogeese/)
+1. [Nogeese Linux (@leon8326-nogeese)](https://github.com/leon8326-nogeese/)
 
-2. [@leon8326-goosepack](https://github.com/leon8326-goosepack/)
+2. [Goosepack Linux (@leon8326-goosepack)](https://github.com/leon8326-goosepack/)
 
 3. (Idk what to name it, i'll edit this once i find a name for it.)
 
