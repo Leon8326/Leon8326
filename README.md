@@ -13,6 +13,6 @@ You can check out all of them here:
 
 2. [Goosepack Linux (@leon8326-goosepack)](https://github.com/leon8326-goosepack/)
 
-3. (Idk what to name it, i'll edit this once i find a name for it.)
+3. (Idk what to name it, i'll edit this one once i find a name for it.)
 
 (I'm using Debian on my personal computer, if anyone asks.)
