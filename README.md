@@ -1,16 +1,18 @@
 ## Hi there 👋
+I'm Leon, a developer.
 
-<!--
-**Leon8326/Leon8326** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+1. I'm currently working on an arch-based linux distro (Debian and Arch are absolute 🐐 GOATS.).
 
-Here are some ideas to get you started:
+2. I'm also planning making a distro based on the distro in point 1.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+3. A linux distro (again) based on DebianTesting or DebianUnstable (we will see).
+
+You can check out all of them here:
+
+1. @leon8326-nogeese
+
+2. @leon8326-goosepack
+
+3. (idk what to name it, i'll edit this once i find a name for it.)
+
+(I'm using Debian on my personal computer, if anyone asks.)
