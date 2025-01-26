@@ -5,7 +5,7 @@ I'm Leon, a developer.
 
 2. I'm also planning making a distro based on the distro in point 1.
 
-3. A linux distro (again) based on DebianTesting or DebianUnstable (Probably DebianTesting, we will see.).
+(Changed my plans, not making distro 3.)
 
 You can check out all of them here:
 
@@ -13,6 +13,4 @@ You can check out all of them here:
 
 2. [Goosepack Linux (@leon8326-goosepack)](https://github.com/leon8326-goosepack/)
 
-3. (Idk what to name it, i'll edit this one once i find a name for it.)
-
-(I'm using Debian on my personal computer, if anyone asks.)
+(I'm using Nogeese Linux on my personal computer, if anyone asks.)
