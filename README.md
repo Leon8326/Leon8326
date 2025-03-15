@@ -9,7 +9,7 @@ I'm Leon, a developer.
 
 You can check out all of them here:
 
-1. [Nogeese (@leon8326-nogeese)](https://github.com/nogeese-org/)
+1. [Nogeese (@nogeese-org)](https://github.com/nogeese-org/)
 
 2. [Goosepack Linux (@leon8326-goosepack)](https://github.com/leon8326-goosepack/)
 
